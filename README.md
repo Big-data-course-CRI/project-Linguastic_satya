@@ -8,3 +8,4 @@ https://en.wikipedia.org/wiki/Uruguay#Language
 For all the countries.
 
 The data scrapped is manily, the nameof the country, population, languages spoken, child moretality, maternal mortality, GDP exchange rate, major religions practised and geographical coordinates.
+
